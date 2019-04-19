@@ -1,0 +1,860 @@
+[
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 30,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/fbaa00775285890786155990920/5285890786155990921.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 30,
+        "isVideo": true,
+        "lat": 30.551633,
+        "like": false,
+        "lng": 104.06538,
+        "privacy": false,
+        "remark": "local data1",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "birthday": "2019-01-01",
+            "id": 8,
+            "mutual": false,
+            "name": "有声有色",
+            "phoneNumber": "18161299273",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/0a27b525f8c2409fa0ad62616a94866d.jpg",
+            "sex": 1,
+            "yhNumber": "130897421"
+        },
+"products":[{
+"id":"1",
+"title":"商品1",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"99999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/fbaa00775285890786155990920/lmkQ9esaJ0QA.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 1,
+            "playNumber": 61,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+},{
+"id":"3",
+"title":"商品4",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+},{
+"id":"3",
+"title":"商品5",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    },
+    {
+        "address": "四川省成都市武侯区吉庆四路8号靠近重庆银行(成都分行)",
+        "businessId": 64,
+        "coverPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/5285890786156058817.jpg",
+        "delete": false,
+        "duration": 0,
+        "id": 64,
+        "isVideo": true,
+        "lat": 30.551643,
+        "like": false,
+        "lng": 104.065391,
+        "privacy": false,
+        "remark": "local data2",
+        "status": 1,
+        "user": {
+            "areaName": "暂无",
+            "attention": false,
+            "id": 9,
+            "mutual": false,
+            "name": "坊间海淘录",
+            "phoneNumber": "18161299270",
+            "photoPath": "http://file.ycdatas.com/oss/image/sitefile2018.oss-cn-hangzhou-internal.aliyuncs.com/yaohe/9cb17312315a4227a7a34e9526495bdd.jpg",
+            "sex": 1,
+            "yhNumber": "130916932"
+        },
+"products":[{
+"id":"2",
+"title":"商品2",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"999999"
+
+},{
+"id":"3",
+"title":"商品3",
+"price":"99.99",
+"img":"http://pic212.nipic.com/file/20190330/5470815_115430529085_2.jpg",
+"sales":"999",
+"favorablerate":"100%",
+"pageviews":"9999"
+
+}],
+        "videoPath": "http://1251915442.vod2.myqcloud.com/0e78d884vodcq1251915442/3361cc375285890786156058816/Zjd8lE4Z0J8A.mp4",
+        "videoPlayerResult": 0,
+        "videoStatistics": {
+            "commentNumber": 0,
+            "goodNumber": 0,
+            "playNumber": 1,
+            "shareNumber": 0
+        }
+    }
+]
